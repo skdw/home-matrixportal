@@ -1,0 +1,9 @@
+adafruit_minimqtt
+adafruit_connection_manager
+adafruit_display_text
+adafruit_rgbmatrix
+adafruit_framebufferio
+adafruit_wifi
+adafruit_board
+adafruit_terminalio
+adafruit_ticks
