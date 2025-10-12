@@ -14,7 +14,7 @@ from os import getenv
 # Adafruit networking & MQTT
 import wifi
 import adafruit_connection_manager
-import adafruit_minimqtt.adafruit_minimqtt as MQTT  # Requires adafruit_ticks library
+import adafruit_minimqtt.adafruit_minimqtt as MQTT
 
 # Adafruit display libraries
 import board
